@@ -1230,9 +1230,6 @@
   .object-top {
     object-position: top;
   }
-  .pl-12 {
-    padding-left: calc(var(--spacing) * 12);
-  }
   .text-center {
     text-align: center;
   }
