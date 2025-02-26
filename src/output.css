@@ -1230,6 +1230,9 @@
   .object-top {
     object-position: top;
   }
+  .p-8 {
+    padding: calc(var(--spacing) * 8);
+  }
   .text-center {
     text-align: center;
   }
