@@ -457,6 +457,9 @@
   .aspect-square {
     aspect-ratio: 1 / 1;
   }
+  .h-24 {
+    height: calc(var(--spacing) * 24);
+  }
   .h-60 {
     height: calc(var(--spacing) * 60);
   }
@@ -466,11 +469,23 @@
   .h-screen {
     height: 100vh;
   }
+  .max-h-24 {
+    max-height: calc(var(--spacing) * 24);
+  }
+  .max-h-50 {
+    max-height: calc(var(--spacing) * 50);
+  }
+  .max-h-54 {
+    max-height: calc(var(--spacing) * 54);
+  }
   .max-h-none {
     max-height: none;
   }
   .max-h-screen {
     max-height: 100vh;
+  }
+  .min-h-24 {
+    min-height: calc(var(--spacing) * 24);
   }
   .min-h-54 {
     min-height: calc(var(--spacing) * 54);
