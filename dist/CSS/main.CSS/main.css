@@ -1,4 +1,8 @@
 #content-two {
   width: 34%;
   height: 38vh;
+}
+
+#card-head img {
+  border: 2px solid gray;
 }/*# sourceMappingURL=main.css.map */
