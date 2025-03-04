@@ -10,4 +10,6 @@
 #content-three {
   width: 25%;
   height: 60vh;
+  background: transparent;
+  border: 1px solid gray;
 }/*# sourceMappingURL=main.css.map */
