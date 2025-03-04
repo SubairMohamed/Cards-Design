@@ -467,6 +467,9 @@
   .h-24 {
     height: calc(var(--spacing) * 24);
   }
+  .h-50 {
+    height: calc(var(--spacing) * 50);
+  }
   .h-60 {
     height: calc(var(--spacing) * 60);
   }
@@ -475,6 +478,9 @@
   }
   .h-screen {
     height: 100vh;
+  }
+  .max-h-52 {
+    max-height: calc(var(--spacing) * 52);
   }
   .max-h-none {
     max-height: none;
