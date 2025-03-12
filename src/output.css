@@ -1505,6 +1505,9 @@
   .text-blue-400 {
     color: var(--color-blue-400);
   }
+  .text-gray-700 {
+    color: var(--color-gray-700);
+  }
   .text-rose-500 {
     color: var(--color-rose-500);
   }
