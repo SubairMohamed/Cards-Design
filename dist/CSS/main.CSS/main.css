@@ -25,6 +25,12 @@
   box-shadow: 2px 2px 3px 2px rgb(223, 223, 223);
 }
 
+#card-vartical {
+  width: 35%;
+  height: 60vh;
+  background: blue;
+}
+
 #card-head img {
   width: 12%;
   height: 12%;
