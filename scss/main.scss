@@ -28,14 +28,16 @@
 #card-vartical {
     width: 35%;
     height: 60vh;
+    background: #101928;
 }
 
 #card-head img {
     width: 25%;
     height: 25%;
+    border: 2px solid #60A4F5;
 }
 
 #card-vartical #card-head hr {
     width: 100%;
-    border: 2px solid #3D3BF3;
+    border: 2px solid #60A4F5;
 }
