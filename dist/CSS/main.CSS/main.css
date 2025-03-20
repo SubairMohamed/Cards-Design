@@ -71,4 +71,8 @@
 
 #content-five #card-horizontal #card-header {
   width: 100%;
+}
+
+#content-five #card-horizontal #card-header #card-body {
+  height: 18.2vh;
 }/*# sourceMappingURL=main.css.map */
