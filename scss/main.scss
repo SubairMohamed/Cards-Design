@@ -59,8 +59,12 @@
     margin: 0 auto;
 }
 
+#content-five {
+    max-width: 40%;
+}
+
 #content-five #card-horizontal {
-    width: 70%;
+    min-width: 70%;
     height: 30vh;
 }
 
@@ -75,4 +79,9 @@
 
 #content-five #card-horizontal #card-header #card-body {
     height: 18.2vh;
+}
+
+#vertical {
+    width: 22vw;
+    height: 60vh;
 }
