@@ -86,6 +86,10 @@
   height: 65vh;
 }
 
+#content-card-vartical {
+  max-width: 62%;
+}
+
 #circle-one {
   background: #0071F8;
   width: 16%;
