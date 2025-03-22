@@ -92,6 +92,11 @@
   margin: -11rem auto;
 }
 
+#content-card-vartical #card-header img {
+  width: 25%;
+  height: 25%;
+}
+
 #circle-one {
   background: #0071F8;
   width: 16%;
