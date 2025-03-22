@@ -8,6 +8,7 @@
       "Courier New", monospace;
     --color-red-300: oklch(0.808 0.114 19.571);
     --color-red-500: oklch(0.637 0.237 25.331);
+    --color-amber-200: oklch(0.924 0.12 95.746);
     --color-yellow-500: oklch(0.795 0.184 86.047);
     --color-teal-400: oklch(0.777 0.152 181.912);
     --color-blue-50: oklch(0.97 0.014 254.604);
@@ -1600,6 +1601,9 @@
   }
   .\[color\:red\]\/50\! {
     color: color-mix(in oklab, red 50%, transparent) !important;
+  }
+  .text-amber-200 {
+    color: var(--color-amber-200);
   }
   .text-black {
     color: var(--color-black);
