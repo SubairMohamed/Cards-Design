@@ -10,6 +10,7 @@
     --color-yellow-500: oklch(0.795 0.184 86.047);
     --color-teal-400: oklch(0.777 0.152 181.912);
     --color-blue-50: oklch(0.97 0.014 254.604);
+    --color-blue-200: oklch(0.882 0.059 254.128);
     --color-blue-400: oklch(0.707 0.165 254.624);
     --color-blue-600: oklch(0.546 0.245 262.881);
     --color-indigo-500: oklch(0.585 0.233 277.117);
@@ -1209,6 +1210,9 @@
   }
   .bg-blue-50 {
     background-color: var(--color-blue-50);
+  }
+  .bg-blue-200 {
+    background-color: var(--color-blue-200);
   }
   .bg-blue-600 {
     background-color: var(--color-blue-600);
