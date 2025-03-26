@@ -16,6 +16,7 @@
     --color-blue-200: oklch(0.882 0.059 254.128);
     --color-blue-300: oklch(0.809 0.105 251.813);
     --color-blue-400: oklch(0.707 0.165 254.624);
+    --color-blue-500: oklch(0.623 0.214 259.815);
     --color-blue-600: oklch(0.546 0.245 262.881);
     --color-blue-900: oklch(0.379 0.146 265.522);
     --color-indigo-500: oklch(0.585 0.233 277.117);
@@ -270,11 +271,17 @@
   .end-2 {
     inset-inline-end: calc(var(--spacing) * 2);
   }
+  .top-0 {
+    top: calc(var(--spacing) * 0);
+  }
   .top-4 {
     top: calc(var(--spacing) * 4);
   }
   .right-2 {
     right: calc(var(--spacing) * 2);
+  }
+  .bottom-0 {
+    bottom: calc(var(--spacing) * 0);
   }
   .isolate {
     isolation: isolate;
@@ -1214,6 +1221,9 @@
   .bg-\[var\(--my_variable\)\] {
     background-color: var(--my_variable);
   }
+  .bg-amber-300 {
+    background-color: var(--color-amber-300);
+  }
   .bg-blue-50 {
     background-color: var(--color-blue-50);
   }
@@ -1225,6 +1235,9 @@
   }
   .bg-blue-300 {
     background-color: var(--color-blue-300);
+  }
+  .bg-blue-500 {
+    background-color: var(--color-blue-500);
   }
   .bg-blue-600 {
     background-color: var(--color-blue-600);
