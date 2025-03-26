@@ -93,7 +93,7 @@
 }
 
 #content-card-vartical #card-header {
-  height: 80%;
+  height: 40vh;
 }
 
 #content-card-vartical #card-header img {
@@ -132,7 +132,8 @@
 }
 
 #left-footer {
-  width: 40%;
+  width: 45%;
+  border-right: 2px solid rgb(233, 233, 233);
 }
 
 #right-footer {
