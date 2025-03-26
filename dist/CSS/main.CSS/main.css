@@ -124,12 +124,11 @@
   border-right: 50px solid transparent;
   border-bottom: 50px solid #F21C6E;
   margin: 3em auto;
-  margin-right: 4em;
+  margin-right: 1em;
 }
 
 #left-footer {
   width: 40%;
-  height: 17.3vh;
 }
 
 #right-footer {
