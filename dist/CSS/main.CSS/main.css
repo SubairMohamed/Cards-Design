@@ -92,6 +92,10 @@
   margin: -11rem auto;
 }
 
+#content-card-vartical #card-header {
+  height: 80%;
+}
+
 #content-card-vartical #card-header img {
   width: 30%;
   height: 30%;
