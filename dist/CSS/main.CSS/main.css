@@ -93,7 +93,7 @@
 }
 
 #content-card-vartical #card-header {
-  height: 40vh;
+  min-height: 80%;
 }
 
 #content-card-vartical #card-header img {
