@@ -84,12 +84,15 @@
 #vertical {
     width: 34vw;
     height: 65vh;
+    background: #131736;
 }
 
 #content-card-vartical {
     max-width: 62%;
     height: 50vh;
     margin: -11rem auto;
+    background: transparent;
+    box-shadow: 1px 1px 2px 2px gainsboro;
 }
 
 #content-card-vartical #card-header {
